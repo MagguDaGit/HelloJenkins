@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello Jenkins! Dette er en ny commit 4\n";
+    std::cout << "Hello Jenkins! Dette er en ny commit Bruh plz\n";
 
 }
 
